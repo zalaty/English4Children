@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">¡Inglés para niños!</string>
+	<string name="correct">Correct!</string>
+	<string name="incorrect">Incorrect!</string>
+	<string name="n_good">Good:</string>
+	<string name="n_bad">Bad:</string>
+	<string name="excellent">EXCELLENT!</string>
+	<string name="good_job">GOOD JOB!</string>
+	<string name="nice">NICE!</string>
+	<string name="try_again">TRY AGAIN!</string>
+	<string name="ok">OK</string>
+	<string name="info">¡Inglés para niños! es una Android app para el aprendizaje y diversión de los niños. Si tienes alguna sugerencia, puede enviar un email a: david.salfor@gmail.com</string>
+	<string name="app_desc">Debes seleccionar uno de los juegos para empezar a aprender Inglés.</string>
+	<string name="app_own">David Salado Fornell</string>
+	<string name="terminado">¿Has terminado de jugar?</string>
+	<string name="si">SI</string>
+	<string name="no">NO</string>
+</resources>
